@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaminyann&show_icons=true&locale=en" alt="yaminyann" /></p>
 
-
+![GitHub metrics](https://metrics.lecoq.io/yaminyann)
