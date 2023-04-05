@@ -15,15 +15,8 @@
 <a href="https://twitter.com/yamin_yann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yamin_yann" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yaminyann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yaminyann" height="30" width="40" /></a>
 <a href="https://fb.com/aboutyaminyann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aboutyaminyann" height="30" width="40" /></a>
-</p>
 <a href="https://medium.com/@yaminyann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yaminyann" height="30" width="40" /></a>
 <a href="https://discord.gg/yamin#6239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yamin#6239" height="30" width="40" /></a>
-</p>
-
-
-
-
-
 
 
 
