@@ -4,9 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaminyann&label=Profile%20views&color=0e75b6&style=flat" alt="yaminyann" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaminyann" alt="yaminyann" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/yamin_yann" target="blank"><img src="https://img.shields.io/twitter/follow/yamin_yann?logo=twitter&style=for-the-badge" alt="yamin_yann" /></a> </p>
 
 - 🌱 I’m currently learning **Python Django**
 
