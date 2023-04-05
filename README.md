@@ -7,11 +7,10 @@
 
 - 🌱 I’m currently learning **Python Django**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yaminyann](https://github.com/yaminyann)
+- 👨‍💻 All of my projects are available at(https://github.com/yaminyann)
 
 - 💬 Ask me about **Web development**
 
-- 📫 How to reach me **yaminredmi5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
