@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Yamin Ali</h1>
 <h3 align="center">A passionate Backend developer from Bangladesh.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn-images-1.medium.com/max/1000/1*E9W3tPI0VteQYzWHP5Teng.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/1*Fbek-4a2VBRwvnpAigbwpA.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaminyann&label=Profile%20views&color=0e75b6&style=flat" alt="yaminyann" /> </p>
 
