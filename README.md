@@ -1,6 +1,11 @@
-![](https://scontent.fird1-1.fna.fbcdn.net/v/t39.30808-6/336354056_224423300269021_6810488305969756344_n.jpg?stp=cp0_dst-jpg_e15_q65_s1080x2048&_nc_cat=106&ccb=1-7&_nc_sid=dd9801&_nc_ohc=b5wNGXKTNrAAX-kXaU3&_nc_ht=scontent.fird1-1.fna&oh=00_AfANZaZSJ4XrR3AO0WtFS8qcf8yjxtgYDBTAYl1zS6ij4Q&oe=64360BB7)
+![](https://pbs.twimg.com/profile_banners/1068429805228421120/1680972316/1500x500)
+
+
+
 <h1 align="center">Hi 👋, I'm Yamin Ali</h1>
 <h3 align="center">A passionate Backend developer from Bangladesh.</h3>
+
+
 <img align="right" alt="Coding" width="270" src="https://miro.medium.com/v2/resize:fit:640/1*Fbek-4a2VBRwvnpAigbwpA.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaminyann&label=Profile%20views&color=0e75b6&style=flat" alt="yaminyann" /> </p>
