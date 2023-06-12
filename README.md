@@ -1,4 +1,4 @@
-![](https://pbs.twimg.com/profile_banners/1068429805228421120/1680972316/1500x500)
+![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*XGmnIt4IF_D7Sqt8_C1Qvg.jpeg)
 
 
 
