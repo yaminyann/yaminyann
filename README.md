@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="270" src="https://miro.medium.com/v2/resize:fit:640/1*Fbek-4a2VBRwvnpAigbwpA.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yaminyann&label=Profile%20views&color=0e75b6&style=flat" alt="yaminyann" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=yaminyann&label=Profile%20views&color=0e75b6&style=flat](https://medium.com/@yaminyann/knowlege-is-real-asset-all-others-sca-bafab93e4b64)" alt="yaminyann" /> </p>
 
 
 - 🌱 I’m currently learning **Python Django**
