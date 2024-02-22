@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="270" src="https://miro.medium.com/v2/resize:fit:640/1*Fbek-4a2VBRwvnpAigbwpA.gif">
 
-<p align="left"> <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*6ewxy8UnFVOCx8BbUfUzXQ.png" alt="yaminyann" /> </p>
+<p align="left"> <img src="https://www.facebook.com/share/Psto8puiyxgX4dBK/?mibextid=qi2Omg" alt="yaminyann" /> </p>
 
 
 - 🌱 I’m currently learning **Python Django**
