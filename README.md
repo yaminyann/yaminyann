@@ -1,4 +1,5 @@
-![Header Image](https://res.cloudinary.com/demo/image/fetch/c_fill,h_200,w_1100/https://miro.medium.com/v2/resize:fit:1100/format:webp/1*94XnIp3drgtOG5BSFIZSFg.jpeg)
+![Header Image](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*94XnIp3drgtOG5BSFIZSFg.jpeg)
+
 
 
 
