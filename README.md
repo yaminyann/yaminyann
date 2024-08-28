@@ -1,4 +1,4 @@
-![Description]([https://miro.medium.com/v2/resize:fit:1100/format:webp/1*94XnIp3drgtOG5BSFIZSFg.jpeg](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*94XnIp3drgtOG5BSFIZSFg.jpeg))
+![]([https://miro.medium.com/v2/resize:fit:1100/format:webp/1*94XnIp3drgtOG5BSFIZSFg.jpeg](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*94XnIp3drgtOG5BSFIZSFg.jpeg))
 
 
 <h1 align="center">Hi 👋, I'm Yamin Yann</h1>
