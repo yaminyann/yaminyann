@@ -1,8 +1,3 @@
-![Header Image](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*94XnIp3drgtOG5BSFIZSFg.jpeg)
-
-
-
-
 
 <h1 align="center">Hi 👋, I'm Yamin Yann</h1>
 <h3 align="center">A passionate Back-end developer from Bangladesh</h3>
